@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(dir \"C:\\\\Users\\\\didsk\\\\Desktop\\\\planIt\")",
+      "Bash(test:*)",
+      "WebSearch",
+      "Bash(npx create-next-app@latest:*)",
+      "Bash(powershell:*)",
+      "Bash(npx shadcn@latest init:*)",
+      "Bash(npx shadcn@latest add button input textarea dialog badge checkbox calendar popover card tabs dropdown-menu separator tooltip label --yes)",
+      "Bash(cmd /c \"npx shadcn@latest add button input textarea dialog badge checkbox calendar popover card tabs dropdown-menu separator tooltip label --yes\")",
+      "Bash(npx:*)",
+      "Bash(npm ls:*)",
+      "Bash(npm install:*)"
+    ]
+  }
+}
