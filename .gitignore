@@ -41,3 +41,6 @@ next-env.d.ts
 
 # docs
 docs/implementation-plan.md
+
+# claude
+CLAUDE.md
