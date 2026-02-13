@@ -16,7 +16,6 @@ const PROTECTED_API = [
   "/api/issues",
   "/api/memos",
   "/api/history",
-  "/api/ai",
 ];
 
 export function middleware(request: NextRequest) {
@@ -65,6 +64,5 @@ export const config = {
     "/api/issues/:path*",
     "/api/memos/:path*",
     "/api/history/:path*",
-    "/api/ai/:path*",
   ],
 };
